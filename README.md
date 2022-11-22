@@ -1,6 +1,6 @@
 # sunmi_printer_ticket
 
- # This is a fork from [sunmi_printer](https://pub.dev/packages/sunmi_printer) , but i implemented a lot of other features described below
+ # This is a fork from [SumiPrinterPos]([https://pub.dev/packages/sunmi_printer](https://github.com/hueht21/SumiPrinterPos)) , but i implemented a lot of other features described below
  # Important: 
   **THIS PACKAGE WILL WORK ONLY IN ANDROID!**
   - [x] Jump (n) lines
